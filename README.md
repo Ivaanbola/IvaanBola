@@ -9,8 +9,6 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Ivaanbola](https://github.com/Ivaanbola)
 
-- 💬 Ask me about **react**
-
 - 📫 How to reach me **ivanbolanos0@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
