@@ -7,8 +7,6 @@
 
 - 🌱 I’m currently learning **node.js**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Ivaanbola](https://github.com/Ivaanbola)
-
 - 📫 How to reach me **ivanbolanos0@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
