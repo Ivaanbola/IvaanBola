@@ -1,11 +1,10 @@
 <h1 align="center">Hi 👋, I'm Ivan Bolaños</h1>
-<h3 align="center">A passionate frontend developer from Spain</h3>
+<h3 align="center">A passionate Full Stack developer based on Spain</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ivaanbola&label=Profile%20views&color=0e75b6&style=flat" alt="ivaanbola" /> </p>
 
 - 🔭 I’m currently working on **Dormakaba **
 
-- 🌱 I’m currently learning **node.js**
 
 - 📫 How to reach me **ivanbolanos0@gmail.com**
 
