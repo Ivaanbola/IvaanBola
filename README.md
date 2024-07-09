@@ -8,7 +8,6 @@
 
 
 - 📫 How to reach me **ivanbolanos0@gmail.com**
-<img src="https://tryhackme-badges.s3.amazonaws.com/paneques.png" alt="TryHackMe">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -20,3 +19,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ivaanbola&show_icons=true&locale=en&layout=compact" alt="ivaanbola" /></p>
 
+<img src="https://tryhackme-badges.s3.amazonaws.com/paneques.png" alt="TryHackMe">
