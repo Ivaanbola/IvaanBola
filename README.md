@@ -1,4 +1,5 @@
-<script src="https://tryhackme.com/badge/3244390"></script>
+<img src="https://tryhackme-badges.s3.amazonaws.com/paneques.png" alt="TryHackMe">
+
 <h1 align="center">Hi 👋, I'm Ivan Bolaños</h1>
 <h3 align="center">A passionate Full Stack developer based on Spain</h3>
 
