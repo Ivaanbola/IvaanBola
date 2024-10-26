@@ -14,6 +14,4 @@
 <a href="https://linkedin.com/in/ivan-bolaños" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ivan-bolaños" height="30" width="40" /></a>
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ivaanbola&show_icons=true&locale=en&layout=compact" alt="ivaanbola" /></p>
-
 <img src="https://tryhackme-badges.s3.amazonaws.com/paneques.png" alt="TryHackMe">
